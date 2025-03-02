@@ -35,7 +35,6 @@ Support Vector Regressor,
 Random Forest Algorithm,
 
 Decision Tree Regressor,
-
 """
 ## For Model Evaluation
 """ Mean Square Error and R-squared  """
