@@ -13,3 +13,23 @@
 ### Yield: The crop yield (in kg per hectare)
 ###  Data Set link
 https://www.kaggle.com/datasets/akshatgupta7/crop-yield-in-indian-states-dataset
+## Library used in this Project
+""" 
+Numpy
+Pandas
+SkLearn
+Matplotlib
+Seaborn
+
+"""
+## Machine Learining Algorithms is used in this project
+"""
+Linear Regressor
+Support Vector Regressor
+Random Forest Algorithm
+Decision Tree Regressor
+
+"""
+## For Model Evaluation
+""" Mean Square Error and R-squared  """
+
